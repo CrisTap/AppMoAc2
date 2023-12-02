@@ -1,4 +1,5 @@
 //Programa Creado por: Cristian Jesus Garcia Tapia
+
 import Foundation
 
 struct Producto {
